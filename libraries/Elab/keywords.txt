@@ -1,0 +1,35 @@
+########################################
+# Syntax Coloring Map For Elab Peers Lib
+########################################
+
+Elab	KEYWORD1
+
+########################################
+
+LedOn	KEYWORD2
+LedOff	KEYWORD2
+LedBlink	KEYWORD2	
+  	
+UltrasonicSenDistance	KEYWORD2
+  	
+MotorForward	KEYWORD2
+MotorBackward	KEYWORD2
+MotorStop	KEYWORD2
+MotorLeftTurn	KEYWORD2
+MotorSLeftTurn	KEYWORD2
+MotorRightTurn	KEYWORD2
+MotorSRightTurn	KEYWORD2	
+MotorLineFollow	KEYWORD2
+MotorBothForward	KEYWORD2   
+MotorBothBackward	KEYWORD2
+MotorBothStop	KEYWORD2
+  	
+SpeedSenLRSpeedDiff	KEYWORD2
+SpeedBalance	KEYWORD2
+  	
+setPwmFrequency	KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+
